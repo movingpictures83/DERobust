@@ -1,0 +1,2 @@
+Prefix plugins/DERobust/example/
+Plugin DERobust inputfile EBTest.rds outputfile EBDERes
